@@ -170,7 +170,7 @@ p {
 
 /* Media Queries */
 
-@media (max-width: 1028px) {
+@media (max-width: 991px) {
 
     #title .row{
         text-align: center;
